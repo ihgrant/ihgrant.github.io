@@ -1,72 +1,13 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>BLØGGN</title><description>BLØGGN</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Sun, 15 Nov 2015 20:36:30 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Test post</title><description>&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/11/A86DF67B66016E141595828C188040C7FB48C870-1.jpg" alt=""&gt;
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus feugiat ante a lorem lacinia, at tempus velit sagittis. Nulla lobortis felis quis purus vestibulum, vitae suscipit ipsum tincidunt. Ut eu blandit nisl. Suspendisse fringilla eleifend diam, sit amet dictum est mattis vitae. Sed pulvinar eu odio ut accumsan. Suspendisse ultrices&lt;/p&gt;</description><link>http://localhost:2368/2015/11/15/test-post/</link><guid isPermaLink="false">a0f48216-b880-4dc3-b6d5-b339023659b8</guid><dc:creator>Ian</dc:creator><pubDate>Sun, 15 Nov 2015 17:51:06 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/11/A86DF67B66016E141595828C188040C7FB48C870-1.jpg" alt=""&gt;
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus feugiat ante a lorem lacinia, at tempus velit sagittis. Nulla lobortis felis quis purus vestibulum, vitae suscipit ipsum tincidunt. Ut eu blandit nisl. Suspendisse fringilla eleifend diam, sit amet dictum est mattis vitae. Sed pulvinar eu odio ut accumsan. Suspendisse ultrices turpis a nisl ornare fermentum. Sed sed efficitur augue, eu gravida libero. Sed ut dictum turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed vel purus urna. Ut facilisis enim sem, in viverra erat commodo quis. Donec ut urna non nunc porttitor vestibulum. Cras placerat nisl in orci congue ullamcorper.&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>BLØGGN</title><description>BLØGGN</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Sun, 15 Nov 2015 21:13:16 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>(Untitled)</title><description>&lt;p&gt;It's been a long time since I published anything other than a portfolio on the web, but that ends today. I've built this blog with Ghost and Buster and it's hosted in Github Pages under a domain name I own. This is great for me because I don't have to&lt;/p&gt;</description><link>http://localhost:2368/2015/11/15/untitled-2/</link><guid isPermaLink="false">055e4017-d0bf-4cb9-99e1-37dab4e97c23</guid><category>code</category><dc:creator>Ian</dc:creator><pubDate>Sun, 15 Nov 2015 21:11:19 GMT</pubDate><content:encoded>&lt;p&gt;It's been a long time since I published anything other than a portfolio on the web, but that ends today. I've built this blog with Ghost and Buster and it's hosted in Github Pages under a domain name I own. This is great for me because I don't have to worry about exposing an admin interface to the web, everything is static so it loads quickly, and making new posts is still easy because I can fire up Ghost on my machine, write a new post, then compile and publish it to Github.&lt;/p&gt;
 
-&lt;p&gt;Maecenas lobortis laoreet condimentum. Etiam id interdum purus. Proin tincidunt suscipit lorem, quis aliquet ipsum sagittis vel. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec a vulputate dui. Mauris suscipit mauris mi, non euismod purus mattis id. Maecenas eu ultricies purus, ac tempus elit. Praesent tincidunt velit id eros dapibus feugiat. Quisque ac purus sed ligula mollis tincidunt ut sed eros. Morbi fringilla tristique sagittis.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://farm1.staticflickr.com/419/18505131926_5cb9dc8c69_b.jpg" alt="Untitled"&gt;&lt;/p&gt;</content:encoded></item><item><title>Welcome to Ghost</title><description>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list&lt;/p&gt;</description><link>http://localhost:2368/2015/11/14/welcome-to-ghost/</link><guid isPermaLink="false">702ee7b4-3c0d-45d1-8e47-f564f55a496e</guid><category>Getting Started</category><dc:creator>Ian</dc:creator><pubDate>Sun, 15 Nov 2015 01:07:19 GMT</pubDate><content:encoded>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
-
-&lt;h2 id="gettingstarted"&gt;Getting Started&lt;/h2&gt;
-
-&lt;p&gt;Ghost uses something called Markdown for writing. Essentially, it's a shorthand way to manage your post formatting as you write!&lt;/p&gt;
-
-&lt;p&gt;Writing in Markdown is really easy. In the left hand panel of Ghost, you simply write as you normally would. Where appropriate, you can use &lt;em&gt;shortcuts&lt;/em&gt; to &lt;strong&gt;style&lt;/strong&gt; your content. For example, a list:&lt;/p&gt;
+&lt;p&gt;I ran into a few pitfalls while working on the setup so I thought I'd mention them here:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Item number one&lt;/li&gt;
-&lt;li&gt;Item number two
-&lt;ul&gt;&lt;li&gt;A nested item&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;A final item&lt;/li&gt;
+&lt;li&gt;create your Github Pages repo first, and do it on the Github site! All you need to do is create a new repo called &lt;code&gt;&amp;lt;username&amp;gt;.github.io&lt;/code&gt;. Mine's &lt;code&gt;ihgrant.github.io&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Once you have created the repo, install ghost on your machine locally. You'll end up with a directory full of folders like &lt;code&gt;content&lt;/code&gt;, &lt;code&gt;core&lt;/code&gt;, and so on. Clone your github pages repo next to these, into a directory called &lt;code&gt;static&lt;/code&gt;, like so: &lt;code&gt;git clone https://github.com/&amp;lt;username&amp;gt;/&amp;lt;username&amp;gt;.github.io.git static&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Installing buster can be confusing if you're not familiar with Python or its package manager (like me). Fortunately, although OS X does come with a recent version of Python installed, it does not have &lt;code&gt;pip&lt;/code&gt;, Python's package manager installed, even though if you installed Python yourself, pip would come with it. You can, however, get pip with Homebrew - and that's what I did.&lt;/li&gt;
+&lt;li&gt;at this point, when you run &lt;code&gt;buster generate&lt;/code&gt; from your current directory (the one you installed ghost into) it'll populate that new &lt;code&gt;static&lt;/code&gt; folder with the files for your static blog.&lt;/li&gt;
+&lt;li&gt;Once that's done, all you need to do is run &lt;code&gt;buster deploy&lt;/code&gt; to commit those files to the repo and push it up to Github!&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;or with numbers!&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Remember to buy some milk  &lt;/li&gt;
-&lt;li&gt;Drink the milk  &lt;/li&gt;
-&lt;li&gt;Tweet that I remembered to buy the milk, and drank it&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id="links"&gt;Links&lt;/h3&gt;
-
-&lt;p&gt;Want to link to a source? No problem. If you paste in a URL, like &lt;a href="http://ghost.org"&gt;http://ghost.org&lt;/a&gt; - it'll automatically be linked up. But if you want to customise your anchor text, you can do that too! Here's a link to &lt;a href="http://ghost.org"&gt;the Ghost website&lt;/a&gt;. Neat.&lt;/p&gt;
-
-&lt;h3 id="whataboutimages"&gt;What about Images?&lt;/h3&gt;
-
-&lt;p&gt;Images work too! Already know the URL of the image you want to include in your article? Simply paste it in like this to make it show up:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://ghost.org/images/ghost.png" alt="The Ghost Logo"&gt;&lt;/p&gt;
-
-&lt;p&gt;Not sure which image you want to use yet? That's ok too. Leave yourself a descriptive placeholder and keep writing. Come back later and drag and drop the image in to upload:&lt;/p&gt;
-
-&lt;h3 id="quoting"&gt;Quoting&lt;/h3&gt;
-
-&lt;p&gt;Sometimes a link isn't enough, you want to quote someone on what they've said. Perhaps you've started using a new blogging platform and feel the sudden urge to share their slogan? A quote might be just the way to do it!&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ghost - Just a blogging platform&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id="workingwithcode"&gt;Working with Code&lt;/h3&gt;
-
-&lt;p&gt;Got a streak of geek? We've got you covered there, too. You can write inline &lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt; blocks really easily with back ticks. Want to show off something more comprehensive? 4 spaces of indentation gets you there.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;.awesome-thing {
-    display: block;
-    width: 100%;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id="readyforabreak"&gt;Ready for a Break?&lt;/h3&gt;
-
-&lt;p&gt;Throw 3 or more dashes down on any new line and you've got yourself a fancy new divider. Aw yeah.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h3 id="advancedusage"&gt;Advanced Usage&lt;/h3&gt;
-
-&lt;p&gt;There's one fantastic secret about Markdown. If you want, you can write plain old HTML and it'll still work! Very flexible.&lt;/p&gt;
-
-&lt;p&gt;&lt;input type="text" placeholder="I'm an input field!"&gt;&lt;/p&gt;
-
-&lt;p&gt;That should be enough to get you started. Have fun - and let us know what you think :)&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;Special thanks to Akshit Khurana (&lt;a href="https://github.com/axitkhurana/buster"&gt;https://github.com/axitkhurana/buster&lt;/a&gt;) for Buster, and Stefan Scherer (&lt;a href="https://stefanscherer.github.io/setup-ghost-for-github-pages/"&gt;https://stefanscherer.github.io/setup-ghost-for-github-pages/&lt;/a&gt;) for giving me extra info to figure out what I was doing wrong. There are a fair number of pieces to slot together!&lt;/p&gt;</content:encoded></item></channel></rss>
