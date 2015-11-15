@@ -26,7 +26,7 @@ var themer = (function () {
                 'use strict';
                 try {
                     var y = document.getElementsByClassName('colors')[0];
-                    var c = window.getComputedStyle(y).getProperty('background-color');
+                    var c = window.getComputedStyle(y).getPropertyValue('background-color');
                     c = c.substring(c.indexOf('(') + 1, c.indexOf(')')).split(',');
                     var r = rando(+c[0], -5, 5),
                         g = rando(+c[1], -5, 5),
@@ -44,5 +44,3 @@ var themer = (function () {
         }
     };
 })();
-
-document.addEventListener('DOMCOntentLoaded', themer.initialise);
